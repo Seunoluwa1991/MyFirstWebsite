@@ -1,0 +1,13 @@
+.body{
+    background-color: black;
+    color: bisque;
+}
+
+.h2{
+    text-align: center;
+    border-color: black;
+    border-style: dotted;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+
+}
